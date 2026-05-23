@@ -4,14 +4,12 @@
 
 </div>
 <br />
-<br />
 <div align="center">
   
 <p align="center"> <img width="100" height="25" src="https://komarev.com/ghpvc/?username=horrorhusbands&label=cocktails%20&color=F3BCCC&style=flat"
 alt="horrorhusbands" /p
 
 </div>
-<br />
 <br />
 <div align="center">
   
@@ -25,14 +23,14 @@ alt="horrorhusbands" /p
 
 
 </div>
-<br />
 <div align="center">
   
   [ata](https://horrorhusbands.atabook.org/)
 
+</div>
+<br />
+<div align="center">
+  
 <img alt="Image" width="872" height="100" src="https://github.com/user-attachments/assets/c79595ef-bd70-43dc-8a9b-f746ff269a8e" />
-
-
-
 
 <div align="center">
