@@ -1,6 +1,7 @@
 <div align="center">
 
-<img alt="Image" width="692" height="392" alt="image" src="https://github.com/user-attachments/assets/299ec93b-200b-4bc7-834e-b371f08fce6e" />
+<img alt="Image" width="792" height="152" alt="image" src="https://github.com/user-attachments/assets/cbe8a660-186a-4a46-8af6-2b4a10f2293b" />
+
 
 
 </div>
@@ -23,7 +24,8 @@ alt="horrorhusbands" /p
 <br />
 <div align="center">
 
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/943e3dae-1f2e-4857-b7df-6ccf1ed09b5d" />
+<img width="700" height="560" alt="image" src="https://github.com/user-attachments/assets/be211bed-4ea1-4fd5-8294-1cd37fa9f53c" />
+
 
 
 </div>
@@ -31,7 +33,7 @@ alt="horrorhusbands" /p
 <br />
 <div align="center">
 
-<img alt="Image" width="692" height="392" alt="image" src="https://github.com/user-attachments/assets/f5defb34-5364-4bcc-9935-949754c48ec2" />
+<img alt="Image" width="792" height="152" src="https://github.com/user-attachments/assets/c79595ef-bd70-43dc-8a9b-f746ff269a8e" />
 
 
 
