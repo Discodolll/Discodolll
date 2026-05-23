@@ -13,7 +13,9 @@ alt="horrorhusbands" /p
 <br />
 <div align="center">
   
-  ${\textsf{\color{#6E0929} "He's my white feather hawk tail deer hunter" }}$
+  ${\textsf{\color{#F6A3B3} ""Ooh-ooh
+Shut up and dance with me"
+" }}$
 
 </div>
 <div align="center">
@@ -25,7 +27,7 @@ alt="horrorhusbands" /p
 </div>
 <div align="center">
   
-  [ata](https://horrorhusbands.atabook.org/)
+ [rentry](https://rentry.co/discodoll) ༘⋆ [ata](https://horrorhusbands.atabook.org/)
 
 </div>
 <div align="center">
